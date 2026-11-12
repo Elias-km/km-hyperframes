@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "historyId": "29e1141b-376d-40ee-aec0-26d3b88ddbce",
+  "currentRevision": null,
+  "pendingChanges": false,
+  "files": {
+    "BRIEF.md": {
+      "hash": "a9157201bf389a727f6172afde3c920bea0a0f92e14a1d461545a3a4bb934181",
+      "content": "/Users/edefrancisco/.cache/hyperframes/history/29e1141b-376d-40ee-aec0-26d3b88ddbce/blobs/a9/a9157201bf389a727f6172afde3c920bea0a0f92e14a1d461545a3a4bb934181"
+    },
+    "README.md": {
+      "hash": "b2b9bce7770a0415c46abc8bdca04737536cb4e75dc8381a18555453d7356cad",
+      "content": "/Users/edefrancisco/.cache/hyperframes/history/29e1141b-376d-40ee-aec0-26d3b88ddbce/blobs/b2/b2b9bce7770a0415c46abc8bdca04737536cb4e75dc8381a18555453d7356cad"
+    },
+    "SCRIPT.md": {
+      "hash": "b29b7e2a13e5136746e47637788449bd6d618800bc1c778dcfec9c229a99b241",
+      "content": "/Users/edefrancisco/.cache/hyperframes/history/29e1141b-376d-40ee-aec0-26d3b88ddbce/blobs/b2/b29b7e2a13e5136746e47637788449bd6d618800bc1c778dcfec9c229a99b241"
+    },
+    "STORYBOARD.md": {
+      "hash": "5444558b2cccc9a48bf501da46e3b64882f1fb78ee68d442f4a4cba2b5737698",
+      "content": "/Users/edefrancisco/.cache/hyperframes/history/29e1141b-376d-40ee-aec0-26d3b88ddbce/blobs/54/5444558b2cccc9a48bf501da46e3b64882f1fb78ee68d442f4a4cba2b5737698"
+    },
+    "animation.js": {
+      "hash": "0cc38474df36121822978229d07311b0144815d36eebe837c64bdd6a7b0410ae",
+      "content": "/Users/edefrancisco/.cache/hyperframes/history/29e1141b-376d-40ee-aec0-26d3b88ddbce/blobs/0c/0cc38474df36121822978229d07311b0144815d36eebe837c64bdd6a7b0410ae"
+    },
+    "index.html": {
+      "hash": "ed68d6ab61b666ed6b7607c82747ef8b71b9abc4e310283b44b34a6926ad12ce",
+      "content": "/Users/edefrancisco/.cache/hyperframes/history/29e1141b-376d-40ee-aec0-26d3b88ddbce/blobs/ed/ed68d6ab61b666ed6b7607c82747ef8b71b9abc4e310283b44b34a6926ad12ce"
+    },
+    "make_audio.py": {
+      "hash": "4bc57a4e18191865f3b4fb31320696868d16a29a721ea2b50eaa464afafb8e1a",
+      "content": "/Users/edefrancisco/.cache/hyperframes/history/29e1141b-376d-40ee-aec0-26d3b88ddbce/blobs/4b/4bc57a4e18191865f3b4fb31320696868d16a29a721ea2b50eaa464afafb8e1a"
+    },
+    "publicar-github.sh": {
+      "hash": "ff305ab5244a0438d1aaf8140fed8ff39705592fe21c94c99940153c3fac929f",
+      "content": "/Users/edefrancisco/.cache/hyperframes/history/29e1141b-376d-40ee-aec0-26d3b88ddbce/blobs/ff/ff305ab5244a0438d1aaf8140fed8ff39705592fe21c94c99940153c3fac929f"
+    },
+    "render_local.py": {
+      "hash": "d085cd6eeac4cf765ba0689c1001d8627c16073cf4aedb488eb625147f44cf0b",
+      "content": "/Users/edefrancisco/.cache/hyperframes/history/29e1141b-376d-40ee-aec0-26d3b88ddbce/blobs/d0/d085cd6eeac4cf765ba0689c1001d8627c16073cf4aedb488eb625147f44cf0b"
+    },
+    "styles.css": {
+      "hash": "cd3e44f9125cfc495c37d0426828fe091d360e3e36bbc605a056c8b5eabf4f97",
+      "content": "/Users/edefrancisco/.cache/hyperframes/history/29e1141b-376d-40ee-aec0-26d3b88ddbce/blobs/cd/cd3e44f9125cfc495c37d0426828fe091d360e3e36bbc605a056c8b5eabf4f97"
+    },
+    "verify_project.py": {
+      "hash": "ec1184ba873076980476ea868c273f1b8b65607597e48f400957ac22b9e670da",
+      "content": "/Users/edefrancisco/.cache/hyperframes/history/29e1141b-376d-40ee-aec0-26d3b88ddbce/blobs/ec/ec1184ba873076980476ea868c273f1b8b65607597e48f400957ac22b9e670da"
+    },
+    "assets/audio/music.wav": {
+      "hash": "30df43b138ba992c2d0775b4b06419a0757fe1af491ceeea2efba1cd1c31cdf2",
+      "content": "/Users/edefrancisco/.cache/hyperframes/history/29e1141b-376d-40ee-aec0-26d3b88ddbce/blobs/30/30df43b138ba992c2d0775b4b06419a0757fe1af491ceeea2efba1cd1c31cdf2"
+    },
+    "assets/audio/voice.wav": {
+      "hash": "7655937150196722c0de06048c50fc5d34f3ec16bea8767c132df7213c78e23e",
+      "content": "/Users/edefrancisco/.cache/hyperframes/history/29e1141b-376d-40ee-aec0-26d3b88ddbce/blobs/76/7655937150196722c0de06048c50fc5d34f3ec16bea8767c132df7213c78e23e"
+    }
+  },
+  "revisions": {},
+  "checks": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  },
+  "snapshots": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  }
+}

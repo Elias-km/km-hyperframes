@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+__pycache__/
+*.pyc
+*.log
+renders/frames/
+
+assets/audio/voice-robotica.bak.wav
+
+.voice-cache/
+.venv-voice/
+.env
+.env.local

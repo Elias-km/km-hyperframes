@@ -1,0 +1,40 @@
+name: Renderizar anuncio MP4
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Instalar dependencias
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg espeak
+          python -m pip install --upgrade pip
+          python -m pip install numpy pillow playwright
+          python -m playwright install --with-deps chromium
+      - name: Generar audio
+        run: python make_audio.py
+      - name: Verificar la composición
+        run: python verify_project.py
+      - name: Renderizar MP4
+        run: python render_local.py
+      - name: Verificar vídeo final
+        run: python verify_project.py
+      - name: Subir vídeo como artefacto descargable
+        uses: actions/upload-artifact@v4
+        with:
+          name: contrucciones-pepe-y-manuel-video
+          path: renders/contrucciones-pepe-y-manuel.mp4
+          if-no-files-found: error
+          retention-days: 30
